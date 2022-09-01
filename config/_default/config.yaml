@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Computing for Information Science # Website name
-baseURL: "https://info5940.infosci.cornell.edu/" # Website URL
+baseURL: "comp-ss-test.netlify.app" # Website URL
 
 ############################
 ## LANGUAGE
