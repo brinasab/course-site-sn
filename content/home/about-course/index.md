@@ -12,18 +12,18 @@ design:
   columns: "1"
 ---
 
-# INFO 5940 - Computing for Information Science <img src="img/cis.svg" align="right" />
+# Test Computing Soc SC <img src="img/cis.svg" align="right" />
 
-* Instructor: [Benjamin Soltoff](http://www.bensoltoff.com)
+* Instructor: Sabrina Nardin
 * Teaching Assistants:
-    * Catherine Yu
-    * Andrew Liu
-* Meeting day/time: MW 12:25-2:20
-* Meeting location: [Hollister Hall 162](https://www.cornell.edu/about/maps/?q=Hollister%20Hall)
+    * TBA
+    * TBA
+* Meeting day/time: Tu-Th 3:30-4:50
+* Meeting location: 
 * Office hours:
-    * Benjamin: Tu 9-11am (Gates Hall 216)
-    * Catherine: M 5:30-7:30pm (Rhodes Hall 576)
-    * Andrew: F 11-12pm (Rhodes Hall 406), 12-1pm (Rhodes Hall 400)
+    * Sabrina: Tu 9-11am (MACSS Blds. 221A)
+    * TA1: M 5:30-7:30pm ()
+    * TA2: F 11-12pm (), 12-1pm ()
 * Prerequisites: None
 * Requirements: Internet connection and a computer
 
