@@ -1,1 +1,1 @@
-Sabrina Nardin is Assistant Instructinal Professor at the University of Chicago.
+Sabrina Nardin is Assistant Instructional Professor at the University of Chicago.
