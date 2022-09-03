@@ -2,7 +2,7 @@
 title: 'HW03: Wrangling and visualizing data'
 date: '2022-09-12T13:30:00-06:00'
 publishdate: '2019-03-01'
-draft: true
+draft: false
 type: post
 aliases: /hw03-wrangle-data.html
 summary: Wrangle and explore messy datasets in practical research environments.
