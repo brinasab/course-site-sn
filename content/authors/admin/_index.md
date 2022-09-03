@@ -1,4 +1,4 @@
-# ---
+---
 # authors:
 # - admin
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -38,5 +38,5 @@
 # - Visitors
 # ---
 # 
-# Benjamin Soltoff is Lecturer in Information Science at [Cornell University](https://infosci.cornell.edu/). He is a political scientist with concentrations in American government, political methodology, and law and courts. Additionally, he has training and experience in data science, big data analytics, and policy evaluation. He currently teaches courses in data science, research design, data communication, and web design.
+# Benjamin Soltoff is Lecturer in Information Science at [Cornell  University](https://infosci.cornell.edu/). He is a political scientist with concentrations in American government, political methodology, and law and courts. Additionally, he has training and experience in data science, big data analytics, and policy evaluation. He currently teaches courses in data science, research design, data communication, and web design.
 
