@@ -1,24 +1,23 @@
 # ---
 # authors:
 # - admin
-# # bio: My research interests include distributed robotics, mobile computing and programmable
-# #   matter.
-# # education:
-# #   courses:
-# #   - course: PhD in Political Science
-# #     institution: The Pennsylvania State University
-# #     year: 2015
-# #   - course: MA in Political Science
-# #     institution: The Pennsylvania State University
-# #     year: 2012
-# #   - course: BA in Political Science
-# #     institution: James Madison University
-# #     year: 2010
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# education:
+#   courses:
+#   - course: PhD in Political Science
+#     institution: The Pennsylvania State University
+#     year: 2015
+#   - course: MA in Political Science
+#     institution: The Pennsylvania State University
+#     year: 2012
+#   - course: BA in Political Science
+#     institution: James Madison University
+#     year: 2010
 # email: "bcs88@cornell.edu"
-# # interests:
-# # - Artificial Intelligence
-# # - Computational Linguistics
-# # - Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 # title: Benjamin Soltoff
 # organizations:
 # - name: Cornell University
