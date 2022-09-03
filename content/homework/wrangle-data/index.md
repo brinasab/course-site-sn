@@ -2,20 +2,18 @@
 title: 'HW03: Wrangling and visualizing data'
 date: '2022-09-12T13:30:00-06:00'
 publishdate: '2019-03-01'
-draft: false
+draft: no
 type: post
 aliases: /hw03-wrangle-data.html
-summary: Wrangle and explore messy datasets in practical research environments.
+summary: Wrangle and explore messy datasets in practical research environments
 ---
-
-#knitr::knit("content/homework/wrangle-data/index.Rmd", #"content/homework/wrangle-data/index.md")
 
 
 
 
 # Overview
 
-Due by 11:59pm on September 20th.
+Due by 11:59 PM on September 20th.
 
 The goal of this assignment is to practice wrangling and exploring data in a research context.
 
